@@ -3,7 +3,7 @@ import './App.css';
 import { useState } from 'react';
 import { Configuration, OpenAIApi } from "openai"
 
-// console.log(process.env.OPEN_AI_API_KEY)
+console.log(process.env.REACT_APP_APIKEY)
 
 const openAi = new OpenAIApi(
   new Configuration({
