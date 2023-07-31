@@ -1,5 +1,9 @@
 ### Project: [Link](https://ai-text-generator-eight.vercel.app/).
 
+to install packages:
+### `npm install`
+
+to run locally:
 ### `npm start`
 
 Runs the app in the development mode.\
